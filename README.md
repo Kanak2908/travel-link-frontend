@@ -26,5 +26,4 @@ To run this project, you will need to add the following environment variables to
 
 ## Authors
 
-- [@LinkedIn](www.linkedin.com/in/david-goyal)
-- [@X](https://x.com/David__Goyal)
+- [@LinkedIn](www.linkedin.com/in/kanak-pherwani)
